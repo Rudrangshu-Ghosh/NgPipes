@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rud\\Downloads\\Day 28\\DotNetEmpWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76CBBE95-37C2-4D2D-80A2-C891E402732A}|DotNetEmpWebAPI\\DotNetEmpWebAPI.csproj|c:\\users\\rud\\downloads\\day 28\\dotnetempwebapi\\dotnetempwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76CBBE95-37C2-4D2D-80A2-C891E402732A}|DotNetEmpWebAPI\\DotNetEmpWebAPI.csproj|solutionrelative:dotnetempwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rud\\Downloads\\Day 28\\DotNetEmpWebAPI\\DotNetEmpWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "DotNetEmpWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rud\\Downloads\\Day 28\\DotNetEmpWebAPI\\DotNetEmpWebAPI\\appsettings.json",
+              "RelativeToolTip": "DotNetEmpWebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T04:52:29.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
